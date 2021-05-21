@@ -69,7 +69,8 @@ img{
 /* about me */
 #about{
     background-color: #fdca40;
-    padding: 10% 0;
+    padding-top: 7%;
+    padding-bottom: 12%;
     clip-path: polygon(0 0, 100% 0, 100% 90%, 0% 100%);
 }
 

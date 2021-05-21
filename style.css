@@ -1,0 +1,123 @@
+h1{
+    font-size: 4rem;
+}
+form{
+    margin-left: auto;
+}
+
+img{
+    width: 100%;
+    border-radius: 3px;
+}
+
+.btn-pr{
+    padding-right: 56px;
+    font-size: 1.2rem;
+}
+.btn-mr{
+    margin-right: 16px;
+}
+.btn-noborder{
+    border: none;
+}
+
+.text-color{
+    color: #dc3545;
+}
+
+.title{
+    text-align: center;
+}
+
+/* navbar */
+.nav-bg{
+    background-color: #fdca40;
+}
+.nav-border{
+    border-bottom: 2px solid #dc3545;
+}
+
+.brand{
+    margin-left: 16px;
+    text-decoration: none;
+    color: #dc3545;
+    font-size: 1.2rem;
+}
+.brand:hover{
+    margin-left: 16px;
+    text-decoration: none;
+    color: #dc3545;
+    font-size: 1.2rem;
+}
+
+
+
+/* header */
+
+.head-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 85vh;
+}
+.bx-head{
+    padding-bottom: 16px;
+    margin-bottom: 32px;
+}
+
+
+/* about me */
+#about{
+    background-color: #fdca40;
+    padding: 7% 0;
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 0% 100%);
+}
+
+.bx-about{
+    margin: 7% 12%;
+}
+
+.bx-about-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: flex-start; */
+    padding-left: 32px;
+}
+
+
+/* project */
+#project{
+    padding: 3% 0;
+}
+
+.bx-project{
+    margin: 10% 12%;
+}
+
+.bx-project-text{
+    padding-right: 3.5rem;
+}
+
+
+
+/* footer */
+#footer{
+    background-color: #fdca40;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    clip-path: polygon(0 20%, 100% 0, 100% 100%, 0% 100%);
+}
+.social-icon{
+    padding: 32px;
+    margin-top: 10%;
+    border-bottom: 1px solid #dc3545;
+}
+.social-icon i{
+    margin: 0 8px;
+}
+.copy{
+    margin: 16px auto;
+}

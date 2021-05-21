@@ -31,7 +31,7 @@ img{
 
 /* navbar */
 .nav-bg{
-    background-color: #fdca40;
+    background-color: #fdca40 !important;
 }
 .nav-border{
     border-bottom: 2px solid #dc3545;
@@ -69,8 +69,8 @@ img{
 /* about me */
 #about{
     background-color: #fdca40;
-    padding: 7% 0;
-    clip-path: polygon(0 0, 100% 0, 100% 80%, 0% 100%);
+    padding: 10% 0;
+    clip-path: polygon(0 0, 100% 0, 100% 90%, 0% 100%);
 }
 
 .bx-about{
